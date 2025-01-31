@@ -37,7 +37,7 @@
 
 
 ### setting
-- [code]
+- [code](https://github.com/opmaksim/Project_V2X/tree/feature/ros_car/src/25.01.30_one_line_follow_car)
 - OpenCR 보드엔 01.28 코드 그대로 업로드
 - requirement.txt 설치 후 코드 실행
 
