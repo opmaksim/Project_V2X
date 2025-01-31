@@ -2,7 +2,9 @@
 
 ## ~25.01.27
 ### Hardware Setting
-***
+<img src="img/01.hardware.png" alt="alt text" style="width: 30%;"/>
+
+
 ## 25.01.28
 
 ### function
@@ -26,4 +28,19 @@
 ### challenge
 - spd 변수 공유로인한 불편함 해결
 - serial 통신 문제 원인 찾아야함 ( 전력 or wifi 문제 )
-***
+
+## 25.01.31
+
+### function
+- line follow </br>
+![alt text](img/2.line_follow.gif)
+
+
+### setting
+- [code]
+- OpenCR 보드엔 01.28 코드 그대로 업로드
+- requirement.txt 설치 후 코드 실행
+
+###challenge
+- 가끔 opencr이 동작 안하는 문제 (바퀴를 손으로 돌려주다보면 갑자기 동작함 왜 이런지는 모르겠음)
+- 두개의 라인을 따라가도록 변경 ( 실제 도로와 유사환경 )
